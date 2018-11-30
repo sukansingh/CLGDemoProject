@@ -1,0 +1,14 @@
+D:\Visual Studio Work\Visual Studio 2010\webdatacopier\clgasp\clgasp\bin\clgasp.dll
+D:\Visual Studio Work\Visual Studio 2010\webdatacopier\clgasp\clgasp\bin\clgasp.pdb
+D:\Visual Studio Work\Visual Studio 2010\webdatacopier\clgasp\clgasp\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio Work\Visual Studio 2010\webdatacopier\clgasp\clgasp\obj\Debug\clgasp.dll
+D:\Visual Studio Work\Visual Studio 2010\webdatacopier\clgasp\clgasp\obj\Debug\clgasp.pdb
+F:\CLGASP\clgasp\bin\clgasp.dll
+F:\CLGASP\clgasp\bin\clgasp.pdb
+F:\CLGASP\clgasp\obj\Debug\clgasp.dll
+F:\CLGASP\clgasp\obj\Debug\clgasp.pdb
+D:\Visual Studio 2010\CLGASP\clgasp\bin\clgasp.dll
+D:\Visual Studio 2010\CLGASP\clgasp\bin\clgasp.pdb
+D:\Visual Studio 2010\CLGASP\clgasp\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\CLGASP\clgasp\obj\Debug\clgasp.dll
+D:\Visual Studio 2010\CLGASP\clgasp\obj\Debug\clgasp.pdb
